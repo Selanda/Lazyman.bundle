@@ -3,8 +3,8 @@ Lazyman Plex Channel to access Lazyman streams along with recaps and extended hi
 
 
 ## Streaming and Transcoding
-As far as I gather, the Plex Media Server where the plug-in is installed need to be powerful enough to transcode the HLS (HTTP Live Streaming) streams.
-It might work with a transcoding client such as Plex Media Player or OpenPHT on a computer, not verified.
+The Plex Media Server where the plug-in is installed need to be powerful enough to transcode the HLS (HTTP Live Streaming) streams.
+It might work with a transcoding client such as Plex Media Player or OpenPHT on a computer.
 Installing the plug-in on a weaker NAS and using a limited client will not work.
 
 ### Recaps and Highlights
@@ -50,9 +50,8 @@ Recaps and highlights are not part of the Lazyman solution but is offered in the
 
 ## Clients
 ### Working
-* Web client
-* Android app
-* Casting from the Android/iOS app to Chromecast
+* Web client, including casing to Chromecast
+* Android app (versions prior to the plugins option being removed)
 * Plex Media Player on macOS
 * OpenPHT (unspecified)
 * Playstation 4 app
